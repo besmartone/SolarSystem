@@ -1,0 +1,56 @@
+﻿  Animation.cpp
+  buffers.cpp
+  error.cpp
+  events.cpp
+C:\Users\valkr\Desktop\solarSystem\source\events.cpp(26,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\valkr\Desktop\solarSystem\source\events.cpp(27,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\valkr\Desktop\solarSystem\source\events.cpp(31,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\valkr\Desktop\solarSystem\source\events.cpp(32,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\valkr\Desktop\solarSystem\source\events.cpp(34,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\valkr\Desktop\solarSystem\source\events.cpp(35,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Light.cpp
+  main.cpp
+C:\Users\valkr\Desktop\solarSystem\include\objectDraw.h(27,3): warning C4312: 'type cast': conversion from 'unsigned int' to 'const void *' of greater size
+C:\Users\valkr\Desktop\solarSystem\include\objectDraw.h(30,3): warning C4312: 'type cast': conversion from 'unsigned int' to 'const void *' of greater size
+C:\Users\valkr\Desktop\solarSystem\include\torus.h(24,66): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\valkr\Desktop\solarSystem\include\torus.h(27,64): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\valkr\Desktop\solarSystem\include\torus.h(30,62): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\valkr\Desktop\solarSystem\source\main.cpp(130,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\valkr\Desktop\solarSystem\source\main.cpp(261,43): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\valkr\Desktop\solarSystem\source\main.cpp(261,43): warning C4305:         with
+C:\Users\valkr\Desktop\solarSystem\source\main.cpp(261,43): warning C4305:         [
+C:\Users\valkr\Desktop\solarSystem\source\main.cpp(261,43): warning C4305:             T=float
+C:\Users\valkr\Desktop\solarSystem\source\main.cpp(261,43): warning C4305:         ]
+  model.cpp
+C:\Users\valkr\Desktop\solarSystem\source\model.cpp(69,25): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\valkr\Desktop\solarSystem\source\model.cpp(70,27): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\valkr\Desktop\solarSystem\source\model.cpp(71,29): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\valkr\Desktop\solarSystem\source\model.cpp(86,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Shader.cpp
+  Sphere.cpp
+  stbi_impl.cpp
+  Texture.cpp
+  tiny_obj_loader.cc
+  torus.cpp
+C:\Users\valkr\Desktop\solarSystem\include\Torus.h(24,66): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\valkr\Desktop\solarSystem\include\Torus.h(27,64): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\valkr\Desktop\solarSystem\include\Torus.h(30,62): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\valkr\Desktop\solarSystem\source\torus.cpp(103,33): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Generating Code...
+GLFW.lib(input.obj) : warning LNK4099: PDB '' was not found with 'GLFW.lib(input.obj)' or at ''; linking object as if no debug info
+GLFW.lib(init.obj) : warning LNK4099: PDB '' was not found with 'GLFW.lib(init.obj)' or at ''; linking object as if no debug info
+GLFW.lib(window.obj) : warning LNK4099: PDB '' was not found with 'GLFW.lib(window.obj)' or at ''; linking object as if no debug info
+GLFW.lib(context.obj) : warning LNK4099: PDB '' was not found with 'GLFW.lib(context.obj)' or at ''; linking object as if no debug info
+GLFW.lib(win32_window.obj) : warning LNK4099: PDB '' was not found with 'GLFW.lib(win32_window.obj)' or at ''; linking object as if no debug info
+GLFW.lib(win32_joystick.obj) : warning LNK4099: PDB '' was not found with 'GLFW.lib(win32_joystick.obj)' or at ''; linking object as if no debug info
+GLFW.lib(win32_time.obj) : warning LNK4099: PDB '' was not found with 'GLFW.lib(win32_time.obj)' or at ''; linking object as if no debug info
+GLFW.lib(win32_init.obj) : warning LNK4099: PDB '' was not found with 'GLFW.lib(win32_init.obj)' or at ''; linking object as if no debug info
+GLFW.lib(win32_monitor.obj) : warning LNK4099: PDB '' was not found with 'GLFW.lib(win32_monitor.obj)' or at ''; linking object as if no debug info
+GLFW.lib(win32_thread.obj) : warning LNK4099: PDB '' was not found with 'GLFW.lib(win32_thread.obj)' or at ''; linking object as if no debug info
+GLFW.lib(monitor.obj) : warning LNK4099: PDB '' was not found with 'GLFW.lib(monitor.obj)' or at ''; linking object as if no debug info
+GLFW.lib(vulkan.obj) : warning LNK4099: PDB '' was not found with 'GLFW.lib(vulkan.obj)' or at ''; linking object as if no debug info
+GLFW.lib(wgl_context.obj) : warning LNK4099: PDB '' was not found with 'GLFW.lib(wgl_context.obj)' or at ''; linking object as if no debug info
+GLFW.lib(egl_context.obj) : warning LNK4099: PDB '' was not found with 'GLFW.lib(egl_context.obj)' or at ''; linking object as if no debug info
+GLFW.lib(osmesa_context.obj) : warning LNK4099: PDB '' was not found with 'GLFW.lib(osmesa_context.obj)' or at ''; linking object as if no debug info
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  solarSystem.vcxproj -> C:\Users\valkr\Desktop\solarSystem\bin\x64\Debug\solarSystem.exe
